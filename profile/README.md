@@ -1,11 +1,11 @@
-![](https://raw.githubusercontent.com/phxlab/.github/main/profile/phx-banner.jpg)
+![](https://raw.githubusercontent.com/phxlab/.github/main/profile/phx-banner.png)
 
 # Welcome To Phoenix Tech Lab
 We are a digital marketing agency specializing in websites and SEO.
 
 - ☎️ How to reach us **(888) 757-8767**
 - 📧 Email us at **info@phoenixtechlab.com**
-- 🌐 Visit our [website](https://phoenixtechlabs.com)
+- 🌐 Visit our [website](https://phoenixtechlab.com)
 <!-- - 📸 Visit our [Instagram]()
 - 💻 Visit our [Facebook]() -->
 
