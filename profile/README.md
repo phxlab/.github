@@ -3,7 +3,7 @@
 # Welcome To Phoenix Tech Lab
 We are a digital marketing agency specializing in websites and SEO.
 
-- ☎️ How to reach us **(888) 757-8767**
+- ☎️ How to reach us **(480) 953-3444**
 - 📧 Email us at **info@phoenixtechlab.com**
 - 🌐 Visit our [website](https://phoenixtechlab.com)
 <!-- - 📸 Visit our [Instagram]()
